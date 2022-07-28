@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reward should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <h1
+      data-testid="points"
+    >
+      Current Points: 0
+    </h1>
+    <h1
+      data-testid="reward"
+    >
+      Reward: 0
+    </h1>
+    <button
+      data-testid="button"
+    >
+      get new points
+    </button>
+  </div>
+</DocumentFragment>
+`;
